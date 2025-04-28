@@ -145,8 +145,12 @@
   }
   
   .illustration img {
+<<<<<<< HEAD
     width: 100%;
   height: 100%;
   object-fit: cover;
+=======
+    width: 60px;
+>>>>>>> 1459997f2e22528335050c9f4fc4612cbb7cfb62
   }
   
